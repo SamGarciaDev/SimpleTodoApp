@@ -79,14 +79,16 @@ fun TodoListScreen(
         }
     ) {
         LazyColumn(
-            modifier = Modifier.fillMaxSize()
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(top = 12.dp)
+                .padding(horizontal = 8.dp)
         ) {
             items(todos.value) { todo ->
-
                 Card(
                     shape = MaterialTheme.shapes.large,
                     elevation = 10.dp,
-                    modifier = Modifier.padding(8.dp)
+                    modifier = Modifier.padding(bottom = 12.dp)
                 ) {
                     TodoItem(
                         todo = todo,

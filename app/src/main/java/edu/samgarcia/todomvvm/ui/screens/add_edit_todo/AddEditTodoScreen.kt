@@ -47,7 +47,7 @@ fun AddEditTodoScreen(
                     modifier = Modifier.padding(16.dp)
                 ) {
                     Text(
-                        text = "Add to-do item 🖊",
+                        text = "Save to-do item 🖊",
                         fontSize = 20.sp
                     )
                 }
