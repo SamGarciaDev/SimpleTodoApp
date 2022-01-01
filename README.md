@@ -12,10 +12,10 @@ Simple TODO app using MVVM architecture with Compose, Room and Dagger Hilt.
 ## Architecture
 Based on MVVM and repository pattern.
 
-## Light theme:
+## Light theme
 
 ![Light theme showcase](screenshots/light_theme_showcase.png)
 
-## Dark theme:
+## Dark theme
 
 ![Dark theme showcase](screenshots/dark_theme_showcase.png)
