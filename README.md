@@ -1,6 +1,5 @@
 # SimpleTodoApp
 Simple TODO app using MVVM architecture with Compose, Room and Dagger Hilt.
-<<<<<<< HEAD
 
 ## Tech stack
 - [Kotlin](https://kotlinlang.org/) with [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
